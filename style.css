@@ -7,7 +7,7 @@ body{
     height : 80vh;
     width : 70vw;
     margin : 5rem auto;
-    background: url('D:/mark2/animationIndex.github.io/background_index.jpg');
+    background: url('background_index.jpg');
     background-size:cover ;
     position : relative;
     box-shadow: 1px 2px 60px;
@@ -20,7 +20,7 @@ body{
 .bot{
     height : 196px;
     width : 500%;
-    background: url('D:/mark2/animationIndex.github.io/Drive-Css-assets/assets/Img_02.png');
+    background: url('Img_02.png');
     display : block;
     position : absolute;
     bottom : 0;
